@@ -22,5 +22,7 @@
     defaultToUpstream = true
 [push]
     default = current
+[rebase]
+    autostash = true
 [diff]
     statGraphWidth = 200
