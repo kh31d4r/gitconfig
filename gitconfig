@@ -1,3 +1,5 @@
 [user]
     name = Daniel Persson
     email = daniel@silvertejp.org
+[status]
+    showUntrackedFiles = all
