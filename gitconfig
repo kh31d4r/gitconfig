@@ -12,3 +12,4 @@
     co = checkout
     ls = ls-files
     cp = cherry-pick
+    ce = commit --amend -C@
