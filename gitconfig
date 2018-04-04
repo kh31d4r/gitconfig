@@ -23,6 +23,7 @@
 [push]
     default = current
 [rebase]
+    autosquash = true
     autostash = true
 [diff]
     statGraphWidth = 200
