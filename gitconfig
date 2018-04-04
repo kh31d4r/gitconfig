@@ -28,3 +28,5 @@
     autostash = true
 [diff]
     statGraphWidth = 200
+[help]
+    autocorrect = 50
