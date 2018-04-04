@@ -5,3 +5,9 @@
     showUntrackedFiles = all
 [color]
     ui = auto
+[alias]
+    st = status
+    br = branch
+    co = checkout
+    ls = ls-files
+    cp = cherry-pick
