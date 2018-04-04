@@ -20,5 +20,7 @@
     editor = "emacs -nw"
 [merge]
     defaultToUpstream = true
+[push]
+    default = current
 [diff]
     statGraphWidth = 200
