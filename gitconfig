@@ -28,5 +28,7 @@
     autostash = true
 [diff]
     statGraphWidth = 200
+[init]
+    defaultBranch = master
 [help]
     autocorrect = 50
